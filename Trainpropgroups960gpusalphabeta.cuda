@@ -1,1 +1,6 @@
-
+//the impossile case of mechznics here starts
+//with estimating efforts of systems that need plots 
+//so as we said log is banned. lets use exp function with oarc model 
+//first instead of 960 full gpus.
+//but oar model must be jsed after another model that i didnt accept in the past.
+void getredultonecanonicalonemodelone()
