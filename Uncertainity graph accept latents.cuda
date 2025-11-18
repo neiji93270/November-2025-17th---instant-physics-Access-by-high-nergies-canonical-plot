@@ -3,3 +3,8 @@
 //the first thing to do to have more datas in oarc models
 //accodeing to my empirical models is to delete a dirac one form esuation parameter.
 //so there is no physical meaning anymore ans then we can check a behaviour graph.
+
+
+//the behaviour graph mist be incomplete for isomorphisms.
+//so we need to plot
+//Line(from start over alpha ) to figures out plot()
